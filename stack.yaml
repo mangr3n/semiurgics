@@ -1,0 +1,11 @@
+resolver: lts-20.3  # Using a stable LTS version
+packages:
+- .
+
+extra-deps: []
+
+extra-package-dbs: []
+
+# Allow newer versions of dependencies if needed
+extra-deps: []
+allow-newer: true

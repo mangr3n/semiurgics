@@ -103,6 +103,48 @@ data Logos = Logos -- (the sum of all actual constraint, lawful order, and possi
 -- The function 'change' is stable and constant across time:
 -- For all t, change is the same function; only its input arguments (WorldState, Logos) vary.
 
+-- Assumption 6: The human being has a capacity to model some portion of reality
+-- such that they can perceive the world as having a specific set of conditions.
+
+-- Feature space representing aspects of reality
+type Feature = String  -- Simplified for now; could be expanded
+type FeatureSpace = [Feature]
+
+type Percept = FeatureSpace  -- A percept is a collection of features extracted from sensory input
+
+-- Perception function: extracts features from the world state to form a percept
+perceive :: Human -> Time -> WorldState -> Percept
+perceive h t w = filter (isKnownTo h t) (featureExtract w)
+  where
+    isKnownTo h' t' f = f `elem` knowledge h' t'
+
+-- Belief-consistent world states: returns all world states consistent with a given percept
+consistentWorlds :: Percept -> [WorldState]
+consistentWorlds percept = filter (\w -> all (\f -> f `elem` featureExtract w) percept) allPossibleWorlds
+
+-- Mental model: represents a human's belief about possible world states based on perception
+type MentalModel = Human -> Time -> [WorldState]
+
+-- A human's mental model is the set of world states consistent with their current percept
+mentalModel :: Human -> Time -> WorldState -> [WorldState]
+mentalModel h t w = consistentWorlds (perceive h t w)
+
+-- Feature extraction function: extracts relevant features from a world state
+featureExtract :: WorldState -> FeatureSpace
+featureExtract = undefined  -- Implementation depends on specific features
+
+-- Knowledge function: represents what features a human has knowledge of
+knowledge :: Human -> Time -> FeatureSpace
+knowledge = undefined  -- Implementation depends on human's knowledge
+
+-- Partial knowledge constraint: humans can only distinguish world states based on known features
+constrainByKnowledge :: Knowledge -> Human -> Time -> WorldState -> WorldState -> Bool
+constrainByKnowledge knowledge h t w1 w2 =
+    let knownFeatures = knowledge h t
+        f1 = filter (`elem` knownFeatures) (featureExtract w1)
+        f2 = filter (`elem` knownFeatures) (featureExtract w2)
+    in f1 == f2  -- w1 and w2 are indistinguishable to h at time t if their known features match
+
 -- Free Will and Novelty:
 -- Free will suggests that Human will is part of WorldState, and is a source of novelty.
 -- From the outside view, this novelty is simply part of Reality, folded into Logos.
