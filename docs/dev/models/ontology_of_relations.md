@@ -1,3 +1,21 @@
+# TLDR: Ontology of Relations and Proportions
+
+This document establishes a philosophical framework for understanding the nature of relations in reality. It posits that while substances (things that exist in themselves) are ontologically primary, relations between substances are real and crucial to our understanding of the world. Key points include:
+
+1. **Fundamental Distinction**: Substances exist independently (in se), while relations are dependent modes of being that connect substances.
+
+2. **Types of Relations**: Relations may be intrinsic (essential to a substance's nature), extrinsic (non-essential), or transcendental (relating to being itself).
+
+3. **Proportional Structure**: Relations manifest as proportions that can be qualitative (ordinal, nominal) or quantitative (interval, ratio).
+
+4. **Epistemological Implications**: While substances exist independently of being known, our knowledge of them is always mediated through their relations and proportional structures.
+
+5. **Applications**: This framework has implications for economics (value theory), information theory, evolution (organisms as "resonators"), and the understanding of error in human perception and cognition.
+
+The ontology provides a systematic approach to understanding how entities relate to one another and how these relations shape our knowledge of reality, with formal representations proposed in Haskell.
+
+---
+
 # Ontology of Relations and Proportions
 
 ## Fundamental Principles

@@ -1,3 +1,21 @@
+# TLDR: Theory of Harmony in Ontological Relations
+
+This document presents a philosophical framework for understanding harmony as a fundamental property of proportional relations between forms. Key points include:
+
+1. **Definition of Harmony**: Harmony is the proportional relation between forms in related entities, where the form in one entity (sink) is proportionally determined by the form in another entity (source) through a channel.
+
+2. **Transcendentals as Modes of Harmony**: Truth (harmony of representation), Goodness (harmony of telos), and Beauty (the attractor to truth and goodness) can be understood as fundamental modes of harmonious relation.
+
+3. **Constructive vs. Destructive Resonance**: True harmony is not merely resonance but the right balance of resonance and dampening. Living systems incorporate strategic disharmony to prevent destructive resonance.
+
+4. **Applications**: This framework has implications for aesthetics (beauty as harmony between form and matter), ethics (virtue as harmonic integration), epistemology (knowledge as selective resonance), and economics (value as harmony between needs, goods, and scarcity).
+
+5. **Mathematical Representation**: The theory includes formal Haskell representations of harmonic relations, providing a framework for quantifying and analyzing harmony across domains.
+
+The theory bridges subjective experience and objective reality, suggesting that harmony serves as the experiential correlate of objective proportional relations in the world.
+
+---
+
 # Theory of Harmony in Ontological Relations
 
 ## Foundational Concepts

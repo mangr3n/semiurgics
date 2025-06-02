@@ -1,3 +1,21 @@
+# TLDR: Theory of Intelligibility
+
+This document proposes that intelligibility is not merely an epistemic virtue but a fundamental ontological category constitutive of reality itself. Key points include:
+
+1. **Intelligibility as Constitutive**: To be real is to be intelligible—reality produces the stable, ordered relations necessary for intelligibility.
+
+2. **Unique Dimensional Configuration**: Our universe's specific dimensional architecture (3D space + time) is the unique configuration that allows for intelligible reality, not an arbitrary choice among many possibilities.
+
+3. **Mathematical Demonstrations**: Multiple mathematical proofs across topology, physics, and information theory demonstrate that only 3D+time permits stable, complex structures and information propagation necessary for intelligibility.
+
+4. **Fundamental Forces**: Our universe's four forces (gravity, electromagnetism, strong and weak nuclear) may represent the only configuration that produces stable, intelligible reality across multiple scales.
+
+5. **Ontological Implications**: If intelligibility is constitutive of reality, our universe isn't one possibility among many but the necessary expression of being itself, with profound implications for understanding the relationship between being and intelligibility.
+
+This theory connects with the Ontology of Relations and Theory of Harmony, suggesting that the mathematical constraints that make our universe uniquely intelligible are the same constraints that enable harmonic relations.
+
+---
+
 # Theory of Intelligibility
 
 ## Introduction
