@@ -2,22 +2,40 @@
 
 ## Morphisms and Actualization
 
-### Morphisms as Actualization
-In category theory terms, morphisms can be understood as processes of actualization that move from potential to actual:
+### Morphisms, Motion, and Logical Relations
+Morphisms represent a broader category than Aristotelian motion - they include both physical changes and purely conceptual relations:
 
 ```haskell
--- A morphism in the category of substances
-class Morphism a b where
-    -- Moves from potential to actual
-    actualize :: a -> b  -- where a is potential, b is actual
+-- Two types of morphisms
+data MorphismType = 
+    MotionMorphism     -- Involves change, actualization of potential
+  | LogicalMorphism    -- Unchanging, eternal relation
 
--- Example: Acorn to Oak
+-- Motion morphism: Change over time (potentiality to actuality)
+class PhysicalMorphism a b where
+    -- Moves from potential to actual
+    actualize :: a -> b -> Time -> Change
+
+-- Example: Acorn to Oak (motion)
 data Acorn = Acorn { potential :: Potential Oak }
 data Oak = Oak { actualizedForm :: Form }
 
-instance Morphism Acorn Oak where
-    actualize (Acorn _) = Oak treeForm  -- Realizing potential
+instance PhysicalMorphism Acorn Oak where
+    actualize acorn _ time = "Transformation over " ++ show time
+
+-- Logical morphism: Unchanging conceptual relation
+class LogicalMorphism a b where
+    -- Represents a timeless relation
+    subsumes :: a -> b -> Bool  -- Is 'a' always a superset of 'b'?
+
+-- Example: Animal and Dog (logical relation)
+instance LogicalMorphism Animal Dog where
+    subsumes _ _ = True  -- A dog is always an animal
 ```
+
+The key distinction:
+- **Motion Morphisms**: Actualize potential, involve change, happen in time
+- **Logical Morphisms**: Express timeless truths, unchanging relations, eternal
 
 Key insights:
 1. **Morphisms as Change**: Each morphism represents a change from potential to actual
