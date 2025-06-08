@@ -882,7 +882,7 @@ data UnivocalInterest =
   | PrecedentialIntegrity   -- Consistency with established principles
   | SystemicStability       -- Maintaining social coordination systems
   | UniversalHumanDignity   -- Respect for all parties as human agents
-  | IntergenerationalEquity -- Fairness to future generations
+  | IntergenerationalStewardship -- Responsibility for future generations
 
 -- How impartiality enables legitimate arbitration
 impartialityPrinciple :: Principle
@@ -893,11 +893,11 @@ impartialityPrinciple = Principle
   }
 ```
 
-The impartiality of the arbiter is not merely a procedural nicety but a necessary condition for legitimate arbitration. The arbiter must be devoid of personal interest in the outcome beyond those interests that would convey univocally - that is, interests that apply universally to all members of the community equally.
+The impartiality of the arbiter is not merely a procedural nicety; it is a crucial factor that significantly shapes the perceived legitimacy and quality of arbitration. Societies tend to favor arbiters whose interests align more with the general well-being of the community than with specific outcomes of the dispute. The arbiter must be devoid of personal interest in the outcome beyond those interests that would convey univocally - that is, interests that apply universally to all members of the community equally, and in the maximally positive way.
 
 This connects directly to our earlier analysis of univocity as a necessary condition for the legitimacy of conventions. Just as conventions gain acceptance when they apply equally to all who perform a given action, arbitration gains legitimacy when the arbiter is motivated solely by considerations that apply equally to all members of the community.
 
-The arbiter may legitimately consider univocal interests such as the common good, precedential integrity, systemic stability, universal human dignity, and intergenerational equity. These are not "partial" interests because they apply to all members of the community equally, including the arbiter themselves. In contrast, any interest that would benefit the arbiter specifically or any particular subset of the community would compromise the legitimacy of the arbitration.
+The arbiter may legitimately consider univocal interests such as the common good, precedential integrity, systemic stability, universal human dignity, and intergenerational stewardship. These are not "partial" interests because they apply to all members of the community equally, including the arbiter themselves. In contrast, any interest that would benefit the arbiter specifically or any particular subset of the community would compromise the legitimacy of the arbitration.
 
 ### 14. Authority as Authoring Order
 
