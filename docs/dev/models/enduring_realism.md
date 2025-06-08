@@ -53,7 +53,7 @@ A prime example is the principle of falsifiability:
 
 - **Initial Claim**: "All scientific theories must be falsifiable" (Popper's demarcation criterion for science)
 - **Sleight-of-Hand**: This becomes extended to "all knowledge is falsifiable" or "unfalsifiable claims cannot count as knowledge"
-- **Problem**: This extended claim is patently untrue, as many forms of knowledge (logical truths, mathematical proofs, first principles, etc.) are not falsifiable by design. Additionally, even in the case of scientific theories, the fact that they can be falsified doesn't mean "will be falsified". In fact, once an experiment predicted by a theory has been demonstrated to succeed in confirming that theory, that experiment will in fact ALWAYS PRODUCE THE SAME RESULT.
+- **Problem**: This extended claim is patently untrue, as many forms of knowledge (logical truths, mathematical proofs, first principles, etc.) are not falsifiable by design. Additionally, even in the case of scientific theories, the fact that they can be falsified doesn't mean "will be falsified". In fact, once an experiment predicted by a theory has been demonstrated to succeed in confirming that theory, that experiment will in fact ALWAYS PRODUCE THE SAME RESULT. Even if a new theory recontextualizes the experiment, the result will still be the same. 
 
 ### The Misunderstanding of Scientific Progress
 
@@ -91,11 +91,11 @@ Modern materialism has concocted what could be called a "witch's brew" of episte
 
 This brew is then used to attack not just naive realism (a legitimate target) but all forms of realist epistemology, undermining any faith in knowledge itself.
 
-When this epistemological skepticism is combined with mind-body dualism, the result is profoundly nihilistic: an isolated mind whose knowledge is suspect and whose desires for truth, beauty, and goodness must be seen as mere evolutionary tricks or divine deceptions.
+When this epistemological skepticism is combined with mind-body dualism, the result is profoundly nihilistic: an isolated mind whose knowledge is suspect and whose desires for truth, beauty, and goodness must be seen as mere evolutionary tricks or divine deceptions.  The only hope for a realism is to reject naive skepticism and naive mind-body dualism.
 
 ## Knowledge as Grip: Mature Realism in Action
 
-To understand mature realism, we might consider knowledge as "grip" - the way the form of a thing discloses itself to us in its proportions, and in the manner appropriate to us as knowers. Unlike direct identity with the thing known, grip involves a proportional and reliable (though fallible) conformity to reality.
+To understand mature realism, we might consider knowledge as "grip" - the way the form of a thing discloses itself to us in its proportions, and in the manner appropriate to us as knowers. Unlike direct identity with the thing known, grip involves a proportional and reliable (though fallible) conformity to the real.
 
 ### The Cat in the Blurry Image
 
@@ -131,15 +131,19 @@ This helps explain why presenting arguments for mature realism often fails to pe
 
 There's a deeper implication to this perceptual analogy that speaks to the robustness of true knowledge:
 
-If the image truly is of a cat, then we can trust that viewing it differently will not ultimately destroy the perception of the cat. We can hear another interpretation ("it's a pub"), and even temporarily view the image through that alternative lens, trusting that if the cat image is in fact the proper interpretation, it will re-emerge as the superior interpretation upon careful consideration.
+If the image truly is of a cat, then we can trust that viewing it differently will not ultimately destroy the capacity to perceive the cat. We can hear another interpretation ("it's a pub"), and even temporarily view the image through that alternative lens - a perspective - trusting that if the cat image is in fact the proper interpretation, it will re-emerge as not simply superior, but actually correct upon careful consideration.
 
-This illustrates a key feature of mature realism: confidence without dogmatism. The person who has truly "gripped" reality through knowledge can:
+One should not mistake any usefulness of a false perspective for somehow making that false perspective true.  Just because seeing the cat as a pub, leads me to some insight about dinner plans, or the deeper significance of the pub to social life, doesn't make it an image of a pub.  The cat is still a cat, and the pub is still a pub.
+
+This illustrates a key feature of mature realism: confidence without dogmatism - the person who has truly "gripped" reality through knowledge can:
 
 - Remain open to alternative interpretations
 - Temporarily adopt different perspectives as an exercise
 - Trust that truth will reassert itself through continued engagement
 
-Unlike the fragile certainty of dogmatism (which cannot bear alternative views) or the indifference of relativism (which sees all interpretations as equally valid), mature realism offers a robust confidence that truth, once glimpsed, can be found again even after entertaining alternatives.
+Note also, that this is not an indictment of dogma as such, but rather a recognition that dogma is not knowledge. Dogma IS a mechanism for the conveyance of knowledge, but this would require a distinction between knowledge in situ, and knowledge in transit.  Each has a formal quality, and a material quality.  Knowledge in transit is dogma, knowledge in situ is knowledge.  Knowledge is of forms, and so in some structural way, we will find that knowledge in transit (language), will have form, as will knowledge in situ.  And that it's truth bearing capacity is a function of the quality of the form in its proportions to the object of that knowledge.  There are several sophistic mechanisms by which ones understanding of knowledge can be distorted, and in particular it is when knowledge gets turned back toward itself, or it's mechanisms and the categories become confused.  Again, naive knowledge will fail to recognize such subtle distortions, but will lead us into solipsistic, absurd, sophistic, or nihilistic presuppositions, arguments, and conclusions.
+
+Unlike the fragile certainty of dogmatism (which cannot bear alternative views) or the indifference of relativism (which sees all interpretations as equally valid), mature realism offers a robust confidence that truth, once glimpsed, can be found again even after entertaining alternatives.  That these intelligible principles of reality are as convergent in their attraction of knowledge as they are in their lawful constraint of reality itself.  And this follows from a theory of intelligibility itself.
 
 This has profound implications for philosophical dialogue. The mature realist can engage with materialist and idealist frameworks without fear of losing their grip on reality - confident that the proportional conformity between mind and world that constitutes knowledge will reassert itself when these alternatives ultimately prove inadequate.
 
