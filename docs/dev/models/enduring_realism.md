@@ -311,7 +311,7 @@ Below is a categorized reference of major philosophical and scientific positions
 
 ### Philosophical Dead Ends (Results of Anti-Realist Thinking)
 
-- **Nihilism**: Rejection of all meaningful aspects of existence (moral, epistemological, existential); fundamentally an error of Telos (purpose/final cause in Aristotelian terms) that inevitably leads to an absurd conception of reality
+- **Nihilism**: Rejection of all meaningful aspects of existence (moral, epistemological, existential); fundamentally an error of Telos (purpose/final cause in Aristotelian terms) that inevitably leads to an absurd conception of reality.
 - **Absurdism**: (1) Human tendency to seek meaning in a meaningless universe creates an absurd condition (Camus); (2) Any theory of reality that leads to absurd, contradictory, or self-defeating conclusions
 - **Solipsism**: Only one's own mind can be known to exist; external world and other minds cannot be known
 - **Sophistry**: Persuasion and rhetoric prioritized over truth and genuine knowledge
@@ -321,3 +321,18 @@ Below is a categorized reference of major philosophical and scientific positions
 - **Postmodern Irony**: Rejection of sincerity in favor of ironic detachment and cynicism
 - **Subjectivism**: Reality is entirely dependent on individual perception and judgment
 - **Antirealism about Science**: Scientific theories do not describe reality but are merely useful fictions
+
+
+## Appendix 2: The Many Faces of Anti-Realism
+
+Modernity has a fundamental acceptance and response to the mind/reality split that all modern philosophy, including the constructive empiricism of van Freessen is attempting to resolve.
+
+And so I was looking for a simple analogical framing to point at what seems to happen:
+
+Imagine two philosophers standing on a windy day and one says, It's windy.
+
+The other says, "I see no wind."
+
+"But, look at the way your clothes are waving and the way your hair is waving.  Is this not caused by the wind?"
+
+"No," he responds.  "This is just how hair moves and how clothes move.  What a foolish thing to bring in an invisible explanation for a thing you can clearly see is your hair moving, and your clothes moving."
