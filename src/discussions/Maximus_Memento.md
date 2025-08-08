@@ -1,0 +1,166 @@
+-- David B (Mangr3n) — 7/24/25, 08:23
+⁠TLC Reloaded V. 2.5⁠
+> I really don't know what you see in marcher. He's an arrogant prick.
+Finding the answer to that question might be useful.
+
+It's not like I didn't have the same experience.  The question was a deeper one than whether or not I liked him or how he was talking.  And it became about something other than him, I went back to engage the individuals who he was trusting.  Aquinas, Aristotle, Kemple, Deely, and others in order to make sense of what they were saying and come to my own understanding of them.  It was our (marcher and I, and Tunji to an extent) difficult conversations that I had to work through.
+
+2 nuts cracked it.  First, I realized that though the others were pushing back on relying on experience alone, they weren't denying the validity or value of personal experience.
+
+Second, when looking at nominalism, skepticism, apophaticism, etc.  I was trying to understand where the unknowing part of our finitude was manifesting in their conceptualization of reality.  And I figured out where it was, and once I did that I solved for X, and found that the system was coherent.
+
+There's a half full/half empty dichotomy in reality that's hard to negotiate.  It has to do with our finitude.
+
+There's a developmental arch of the human and their understanding of the world.  naivety -> skepticism -> wisdom.   I'm noticing that the naivety is like a full glass.  Things are what you think they are, and you can have a full and complete knowledge of the world, if you just get the right understanding.
+
+When that understanding breaks, we suddenly wonder is the glass empty?  The meditation of Ecclesiastes expresses much of this.  There is nothing new under the sun, all is vanity (vain imaginings amounting to nothing).
+It is in this place that our skepticism, the failing of our naive understanding sours and risks a tilt into cynicism and nihilism. 
+David B (Mangr3n) — 7/24/25, 08:47
+Instead of half-empty we end up believing that all belief that we have something in the cup is actually a delusion and that the cup is in fact empty.
+
+It is in that transition back to wisdom, where form is form and emptiness is emptiness that we find our way to wisdom.  Creation overflows our understanding and can surprise us, and our knowledge of reality in its proportions and forms is in fact real, and stable and reliable.  And it tells us something significant and real about that which cannot in fact be seen directly.  In fact the idea of seeing directly starts to take on a new set of connotations.
+
+This is why I was pointing at the word reveal as re-veil, and used the example of the flag in the wind.  To reveal/reveil has two connotations.  One is to make something visible which was hidden, and the other is to cover something which was seen.
+
+The fullness of God would in fact overwhelm us.  Without our minds filtering reality we could in fact do nothing.  The act of perceiving is an act of finite resolution.  Resolving to a quantification.  An approximation.   A grip of some but not all.  Is that grip true?  Meaning does it resolve to something real about the world?
+
+Here in this conceptualization of grip we see both half-full and half-empty, that which remains outside of or out of accord with grip, and that which in fact is gripped, touched, shaped to the hand or mind.  That grip is real.
+
+Christ is that of God which can be gripped.  "Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high"
+
+"the express image of his [The Father's] person..."
+
+And for all that we grip, there's more to be known.
+
+It is always going to be true that there is that about God which cannot be known.  But that is not where we build our religion.  There's where we root our humility.  That's what attention and relevance...
+... realization are for and about.  We must also have a cataphatic element.  Christ's presence is both a gift, but a proof by demonstration that there is in fact that which is knowable about God, as people made in his image, our capacity for knowledge is in fact a gift from Him and one to his glory. 
+
+Lucifers intellect was not his downfall.  It was his pride in it.  It was his presumptive arrogance to believe that his knowledge, his intellect warranted his Lordship over creation.
+
+It is not in fact arrogant to say you know things that you know.  To declare, I have a good grip on this.  Marcher has a kind of confidence in his understanding and a set of tactics and tools which are younger and more 2013+ internet shenanigans, but is he wrong?  That was the question.
+Maximus Memento — 7/24/25, 16:54
+There is still another point here that you are not seeing and I'm surprised that you cannot see it. It's very simple. No system is both complete and coherent. (And this all goes back to Gödel's Incompleteness Theorem. I don't care if you don't see the implication from it, I can continue to make the argument from indefinite starting points regardless of the Theorems.) Both Vervaeke and Pageau understand this point and have demonstrated their understanding of it. If you check out the Language of Creation again, you will see a very clear influence on Matthieu based from the Incompleteness Theorems too. There will always be something beyond the system that if the system accounted for it, would invalidate the system. No theory is self-affirming, and every theory becomes self-defeating once it accounts for enough of reality. Modern science follows this pattern. When a theory becomes invalidated due to new evidence, a new theory has to be made. When I told you about the symbol of flooding, the death of the West, and how these ideas are reflected in Pageau's Symbolic World, you reacted as if there was something evil there, but it's simply just how life integrates death, and I know you already agree with this.
+You cannot have a full and complete knowledge of the world, and thinking that you can is intellectual pride. "Reality is right, but only 100% of the time" - indeed this is true, but be careful because this backfires onto you when reality undermines your own foundations. You will never bridge between humanity and divinity using the discursive intellect. Trying to do so is an intellectual Tower of Babel. Aquinas never finished his work, and he deliberately never finished it after the mystical vision that he experienced. That is a very interesting detail about the work of Aquinas that raises questions. I propose that in Aquina's theoria, he experienced the invalidation of his own system in comparison to the mystical experience which rendered his own work "pointless", given his original purpose for his work (and if you check out the Language of Creation, you will see how "pointlessness" and meaninglessness play a role in Creation, such as what you mentioned regarding Ecclesiastes).
+Based on the arguments you're making here, I can clearly see that you still don't understand my point of view, or the point that Vervaeke, Pageau, and I all understand. Yes, it is not arrogant to say that you know something when you know it. Yes, grip on the world exists and the grip has to be real, otherwise you would slip. It sounds like what you’re describing with the analogy of the half-full and half-empty glass is the process of learning. There’s still this final point that we’re not in agreement in: you cannot have a complete and coherent system. You told me you were Enlightened and yet you reject the idea that God plays a trick on us. You reject Maya (the material world as illusion) or you confuse it with something like Platonic Eikaisa (simple illusion). I lost my trust in you when I began to make real progress in myself (and thanks to your help), but I noticed that you no longer were tracking what I was coming into contact with. I found it ironic because all of your guidance led me to it, and I wouldn’t have been able to realize it without Vervaeke, Pageau, and you. You have said before that you cannot lead someone to a place you have not been before. You said that when I read the dialogue with the torture master with you, you could feel yourself getting “sucked in” and had to mentally split off. What I realized with Christ becoming the serpent on the cross (and I found out that St. Gregory of Nyssa had the same realization I did), is that the way the demons are exorcised and that Satan is defeated is not by God forcefully interjecting and using His omnipotence, but that they remove or defeat themselves.
+I needed someone who could get “sucked in,” but carry within them a secret that once consumed and passed into enemy territory could be activated, like a poison disguised as something desirable. Relating this back to our conversation on epistemology, we will ignore what invalidates our system because of our attachment to our system, and so I needed something that my own system would not ignore and take seriously, but invert and destroy the system from the inside out once it was taken in and digested.
+Indeed, marcher is not wrong, considering his system, but he is also young and arrogant (which I believe can be mistaken as confidence if you're in agreement with him). Marcher simply represents Thomism. Aquina's integration of Aristotelian science and Christian theology is impressive and powerful. It is elegant and highly explanatory of the world which is why it is so popular. Relating to marcher, and Western philosophers and Western theologians who attack Eastern philosophies and Eastern theology don't seem to understand how the positive (such as Cataphaticism) and the negative (such as Apophaticism) work together, particularly with the negative being supreme as it is what connects the finite to the infinite and enables finite transcendence. Marcher was very critical of Apophaticism by itself, and accused me of being a "pseudo-mystic," because he thought I was espousing a form of meta-skepticism. I could see how marcher was right, but marcher could not see how I could see how he was right because he strawmanned me like what the rest of the West does to the East. The West has been fighting strawman's of the East for the past century or so now, especially when it comes to unrealized materialists fighting against materialism, or unrealized rationalists who fight against rationalism. I experienced that firsthand with marcher. It is hurtful to share what comes from the heart, to cast pearls before swine, and for them to trample them underfoot. Marcher is an arrogant prick who I will not be speaking with again.
+David B (Mangr3n) — 7/24/25, 16:55
+There will always be something beyond the system that if the system accounted for it, would invalidate the system.
+And yet reality and knowledge resolve.... riddle me this... How?
+Maximus Memento — 7/24/25, 16:57
+They resolve in reality. To know is to be when you know at the particiaptory level. Otherwise, you will have a division between ontology and epistemology.
+David B (Mangr3n) — 7/24/25, 16:57
+You defined knowing in terms  of knowing.  What is knowing?
+Maximus Memento — 7/24/25, 16:58
+Read what I wrote
+David B (Mangr3n) — 7/24/25, 16:58
+That's a dismissal...
+Maximus Memento — 7/24/25, 16:58
+I'll answer once you read what I wrote
+David B (Mangr3n) — 7/24/25, 17:01
+You will never bridge between humanity and divinity using the discursive intellect.
+This is a projection onto others.  Receiving the signals that God places into the creation is not bridging humanity to divinity, but divinity bridging to finitude.
+Maximus Memento — 7/24/25, 17:03
+When you step outside and say that all you need to know that God is God by dropping a rock and seeing that gravity still works doesn't lead you to verifying God, it leads you to naturalism and atheism. Are you familiar with how the Nous and the Dianoia are used together? Or the Left-Brain and the Right-Brain, the Master and his Emissary?
+David B (Mangr3n) — 7/24/25, 17:03
+There’s still this final point that we’re not in agreement in: you cannot have a complete and coherent system.
+You keep adding the word complete.  What does coherent mean alone, and what does it tell us.
+David B (Mangr3n) — 7/24/25, 17:03
+Ok, now you're just attacking me personally.  Are you just tearing down here?
+Maximus Memento — 7/24/25, 17:04
+That is not my intention and I did not mean to come across that way. I'm sorry
+David B (Mangr3n) — 7/24/25, 17:05
+It mocks a point I made to you, a point that is in fact true and relevant.  The steadfastness of the laws of nature is evidence and strong evidence of God and his nature.
+  My question is how does anything actually end up being true and what does it mean that it is. 
+Maximus Memento — 7/24/25, 17:08
+Here is another way of putting it. If you have to use the natural world to know the supernatural world exists, then there will be no way to verify the supernatural world by the natural world. You fall into default naturalism and default atheism. The steadfastness of the laws of nature is not evidence for God, but for the laws of nature. You do not come to know the supernatural by the natural. Slate and I had a conversation the other day about whether or not you could take a picture of the physical Resurrection of Jesus Christ and I said that doesn't make any sense. A picture is natural, the Resurrection is supernatural. If you reduce the supernatural into a natural frame, then the supernatural doesn't make any sense.
+In fact, it was Aquinas who developed the difference between the natural and the supernatural, making reason of the natural and love of the supernatural.
+David B (Mangr3n) — 7/24/25, 17:09
+You're imagining a cleanness of separating between seen and knowable and unseen and unknowable in that explanation.  You're imputing a definition to supernatural that by your own definition could not in fact be delineated.
+If I ask for a definition, will you say it's propositional tyranny?
+Where is Aquinas's argument, I'm not familiar with it?  I don't know it.
+Revelation, revealing, reveiling is literally the process by which that which is not known becomes known.
+Maximus Memento — 7/24/25, 17:15
+No. I'm saying that both nominialism and univocalism are wrong. Reductionism to either idealism and materialism are wrong. There must be a connection between the natural and the supernatural. They cannot be ontologically dichotomous. There must be a demarcation between our distinctions because reality is One.
+
+Propositional tyranny is when we subsume ontology into our epistemology and delude ourselves into controlling reality with our language. It's the over-reliance on propositional knowledge (knowing that something is the case) at the expense of other forms of knowledge, such as procedural knowledge (knowing how to do something). Overly focusing on facts and beliefs neglects the importance of embodied experience and relational understanding.
+David B (Mangr3n) — 7/24/25, 17:20
+That last paragraph.  Neither Aquinas, nor Aristotle, nor Peirce, nor  myself, nor marcher is doing that.   That you think so is the point where we're missing each other.  You're hearing something that's not their.  You are refusing what is given to us.
+
+Rationality (classical) is relational understanding.  Relational isn't touchy feely, or nebulous or cloudy, though it can be that.  It is proportional, and relative.  Related.  It is in their forms.  We have always an element of fuzziness or what I have in the past called the problem of resolution.  But we're NOT blind.  To say so is to claim that God's communication of himself through BOTH creation and revelation is in fact merely a delusional game that we play on our selves.  Your participatory, perspectival, and procedural knowing can be communicated through propositions in their proportions imperfectly, but not incoherently (such that they knowledge conforms to the proportions of reality sufficient to provide genuine and functional grip)
+Go look at Hume, Descartes, Kant, etc.  They did do what your saying, but Aquinas and Aristotle did not.
+WE express an understanding, an approximation of ontology in language (epistemology) but we do not think that our epistemology manifests, creates or makes real the ontology that is being itself.  Knowing is a featuer of being, because relations are a feature of being.  Things relate, they share information (the proportionality of their form)
+Maximus Memento — 7/24/25, 17:50
+I don't think that you guys are necessarily doing that. Like I said, when I had that debate with marcher, I could see where marcher was right, particularly in where knowing and being become one through con-formity. I tried to bring in Vervaeke's contact epistemology to demonstrate agreement. "Adam knew Eve," the form of Adam and the form of Eve participate within each other. They con-form to each other. That is fitness! Yes, propositional and their proportionality of their form, both embodied and in speech, relate to this. It's the right fitting together between the mind and reality. Vervaeke uses the term ratio religio, the rationality of finding the right connection, balance, and fitness between two things. This can have propositional representation (which is what these words are), and symbolism is merely the representations of them and their applicability hence why symbols participate in themselves and why words are symbols. They join the one and the many together such that the one has meaning by the many. The same relationship is between the Nous and the Dianoia. In fact, Dianoia literally means the application of the Nous. These words mean themselves. You can create a system and map words to definitions and insist that someone who uses a word in the wrong way should follow your definition, but without the procedural knowledge of the language, none of the definitions are relevant. Propositional knowledge is dependent on procedural knowledge, and procedural knowledge is dependent on perspectival knowledge, and perspectival knowledge is dependent on participatory knowledge, which is where knowing and being are one and where all of the original conformity, grip, and relationality takes place.
+Yes, Kant and Hegel force all reality into the mind. They're idealists which I argue is a form of reductionism. They're like inverted materialists. And Descartes set the stage for all this. Hume was simply a radical skeptic and empiricist who introduced the problem of induction, which actually relates to what I was trying to say about the self-defeating move of all systems earlier. They're responding to problems and trying to solve them.
+
+I think we need to get more resolution on what exactly Maya is and how it is different than the common notion of illusion.
+David B (Mangr3n) — 7/24/25, 21:46
+I agree with that last sentence.  This is the point of the veil idea.  But the question you have to ask is, Is not the veil revealing something when it lays across the face underneath?  Do we not in fact see something true about the invisible man when his footsteps appear in the water on the floor?  Or the void appears in the mist as he move through the space?  And this is emptiness is form and form is emptiness.  The (emptiness) potentiality of the world that is hidden and surprising is not only revealing (veiling) itself in FORM, but is telling us something true and real about the nature of emptiness.
+
+And then emptiness is emptiness and form is form.  I don't need to escape or drop maya. 
+
+There is no dust to clean from the mirror. 
+Just to let you know I just received your letter.   I shared it with Carolyn.  Wow.  Thank you, I needed that today.  We're having a tough time with finances, and it's been a week of faith in God.  So thank you Peter.
+Maximus Memento — 7/24/25, 22:57
+Yes, Creation itself is a veil which re-veils the Creator. The issue is where do we start from? That which is veiled or that which is unveiled? The supernatural is what created the natural, not vice versa, so we cannot discover (literally un-cover) that which is veiled by that which is unveiled, hence why every system we construct based on what is unveiled will always fail to complete the puzzle of that which is veiled. We can only project into the veiled from that which is unveiled. So for the invisible man, we can have good reason to believe based on inferences and evidence, but we will still be making an imperfect induction. We can still be deceived. Mystery is not that which is abstractly unknown that can become abstractly known, mystery is a confrontation of the being into the unknown. Mysteries are known through being them or through confronting them, not through reasoning. They're associated with sacredness and horror. For example, consciousness is a mystery and you can only know consciousness by being conscious. You cannot prove that you are conscious using logic. The confrontation of mysteries provoke internal transformation, they're not external problems to be solved. (You could argue that mystery novels do just that, but for the sake of argument and in this context, mystery is as I am defining it regarding mysticism).
+
+I am not proposing Fideism either, as if the assertion of faith alone and the undermining of rationality is an adequate solution. Fideism can easily be a form of propositional tyranny. I am using rationality here! But I do say that we shouldn't get caught up in rationality and remember the supra-rational. When Zen is anti-intellectual, it's not necessarily trying to suppress what it may disagree with, it's trying to provoke a confrontation with mystery.
+I am proposing the primacy of the Nous over the Dianoia, the primacy of contemplative knowledge over discursive and systematic knowledge. For example, to be able to engage in any kind of deduction, you must first engage in induction first, and induction suffers from the Problem of Induction. To get to the safety of wisdom, you must first take a risk of being foolish.
+
+This relates to the warning of anti-Christ that Christ gave us. Christ knew that by coming into the world, He introduced anti-Christ as well, and that anti-Christ and Christ appear as indistinguishable externally. The only way to determine the difference between them is through your own internal reflection, hence why you must become Christ yourself to know that which is Christ and that which is anti-Christ. “Even now many antichrists have come.” (1 John 2:18) “For false christs and false prophets will appear and perform great signs and wonders to deceive, if possible, even the elect.” (Matthew 24:24) “Test the spirits to see whether they are from God.” (1 John 4:1) “It is no longer I who live, but Christ who lives in me.” (Galatians 2:20) “We have the mind (phronema) of Christ.” (1 Corinthians 2:16)
+David B (Mangr3n) — 7/25/25, 12:11
+I think I see the gap between us.
+
+I am proposing the primacy of the Nous over the Dianoia, the primacy of contemplative knowledge over discursive and systematic knowledge. 
+
+We're not talking about the same thing.  To me those are parts of the order of knowing.  Episteme.
+
+I'm talking about the primacy of the Order of Being, how it corrects us, and how both "nous" - contemplative, inductive, intuitive, poetic -and "dianoia" - reasoning, discursive though, analytic, philosophical - are tools of the order of knowing.  They are both useful to know the order of being.  But the Order of Being is primary, and definitively so.  Neither nous nor dianoia is primary or dispositive or authoritative.  That misses the point.  It misunderstnads the nature of reality.
+
+Any error between contemplative insight and discursive or systematic (which I'd like a definition for) knowledge, is not reconciled based on one being primary over the other.
+
+It's based on reality demonstrating that one is in error.
+
+If for example you have a contemplative statement that suggests that a "propositional" framing is wrong.  The way that you would work to understand the error in the propositional is not merely by pointing to the intuitive thought, or the contemplative example.  But to then draw out the distinction that demonstrates the error of the original statement - as a propositional set of statements.
+
+We can work through the examples, and I think you are more than capable of demonstrating this truth to yourself.
+
+This idea that the poetic or the philosophical modes are primary over the other completely misunderstands the entire landscape of knowledge, and it's distinction from the order of being itself.
+David B (Mangr3n) — 7/25/25, 12:20
+If for example you have a contemplative statement that suggests that a "propositional" framing is wrong.  The way that you would work to understand the error in the propositional is not merely by pointing to the intuitive thought, or the contemplative example. 
+
+Peter, I want to point out that this was the entire year+ of conversations that you and I had.  I'd listen, point to a dilemma or a catastrophic error, or a subtle confusion that a belief or idea had embedded in it.
+
+I often would do that by giving some type of thought experiment or analogical model as a means of demonstrating the way I was conceiving of it.  Often those were examples from my own contemplative process.  But I didn't stop there.  We would argue and elaborate the poetic framing, the narrative vignette that was an example of the idea or principle or concept.  That elaboration extended into propositional claims and framings of these ideas.  The point in layering in those propositional claims, was to shore up the conceptual framing in order to fill in detail which is in fact present in the reality of the thing discussed.  An image of love (symbolic or otherwise) is not Love, nor is a set of propositions.  Nevertheless, in each case I can gesture through either allegory, or definition, in such a way that you can listen for experiential phenomena that correlate with my statements and then the wisdom in the proposition OR the narrative unlocks.
+
+That is the process of habitus.  The propositions become part of your perceptive machinery through repetition.  AND we can take the perceptive machinery and describe it's function propositionally, as mere sign vehicles for pointing at the thing itself.  Miracle of miracles the order of knowing affords a developmental and adaptive advantage that other animals (merely semiosic, and not semiotic) do not have access to.
+Maximus Memento — 7/25/25, 13:15
+The Nous is the proper intellect (it literally means intellect), but more specifically, it is the aspect of the mind that is in touch with the intelligibility of being. It’s where there is contact with reality, where the rubber meets the road. The Nous is not a logical faculty. Logic is the mere consistency between propositions. The Nous is rational, ratio-, the proper proportioning between agent and arena. The Dianoia is the application of the Nous, it’s what speaks using symbols, such as words. All of this is the dianoia speaking. The Nous is always silent.
+
+If we had direct access to the Order of Being or the nature of reality, without any medium, we wouldn’t need the Order of Knowing. This is the point of postmodernism, there’s always a medium. To think that we have direct access to “objective reality,” is to mis-frame reality.
+
+Like I said before, there is no analytical solution to the Problem of the Criterion. In any analytical context, you can only determine if a propositional set of statements are consistent or inconsistent, that is it. The Dianoia, without the Nous, becomes infatuated with its own sense of consistency and rightness.
+
+Don’t confuse the poetic or the philosophical mode with the superfluous. I am not proposing Romanticism. The Nous is what is in direct contact with reality, but the most raw expressions of it are analogical, metaphorical, and prophetic, such as the parables of Christ, but one must also “have the ears to hear,” and the “eyes to see,” hence why the Church Fathers speak of purifying the Nous with asceticism.
+Maximus Memento — 7/25/25, 13:28
+Yes, this is all true, but it was perspectival shifts that made the difference, and you couldn’t force me to see what you were saying, I had to want to see it and attempt to see it. Once the “sign vehicle,” transported me, the vehicle ceased to be relevant. I am not rejecting what you are saying, I’m trying to show you something more about it and it has to do with negation. I no longer remember the semiotics used to get me to the semiosic and there is hypothetically an indefinite number of ways the semiotics could be used to get me there, just as there are hypothetically an indefinite number of words (and in different languages) to mean the same thing. This is where all our confusion arises. The other 3 P’s of knowing serve as the foundation for the propositional. Without the other 3 P’s, the propositional cannot stand, and I can only use the propositional to point to it. Once the vehicle has done its job, it is negated. 
+It wasn’t having the right set of propositions that changed me, it was the perspectival shift that made the propositions you were sharing make sense. I could see what you were saying and why you were saying it, and that isn’t something you can do through the propositional layer.
+Maximus Memento — 7/25/25, 13:57
+In CBT, we discovered that thoughts and emotions causes behavior and behavior causes thoughts and emotions. So the solution to bad behavior is to fix the thoughts which are tied to the emotions and which cause the behavior. It basically helps people think more rationally. However, this doesn’t help those with more serious mental health problems, such as BPD. It also didn’t help me, although it did help me think more rationally.
+
+Those with BPD need something more powerful, they needed DBT, Dialectical Behavioral Therapy which has many principles but the most important one is intra-dialectics, being able to hold to two opposing thoughts at the same time (and not take them both into a kind of cognitive dissonance). Instead of only imposing the prefrontal cortex onto the limbic system, you get the limbic system to trust the prefrontal cortex. You validate the negative aspect of a thought without giving into it cognitively. “Nobody will love me,” we validate the limbic system creating the thought and then we introduce the opposition from the prefrontal cortex, “but I can try to find a romantic partner.” In DBT, you’re basically internalizing Socrates. You’re not defeating yourself with facts and logic.
+
+Why doesn’t CBT work for everyone? Why can’t everyone just be more logical? You cannot Mr. Spock your way to reality because the Nous, which is in contact with reality, is not logical. Logic is grounded in it.
+
+The limbic system is actually what calls the shots because it is what sets the frame. The prefrontal cortex does all the higher functioning and thinking, and it’s what executes, but it doesn’t set the frame. Pageau talks about this as the relationship between masculine and feminine. The feminine sets the frame and selects for the masculine, but the masculine is what executes. Haidt has this analogy of the rider and the elephant, with the elephant being the limbic system and the rider being the prefrontal cortex. It’s the same idea. 
+If the elephant has made up its mind about something, the rider has very little sway over the elephant. If you have a deep mental and emotional problem (such as the one that I do, the torture master/embodied trauma), you cannot solve the problem by simply invoking rationality and logic.
+
+All of this maps perfectly onto the model of the Nous and the Dianoia.
+It also maps onto the Master and his Emissary, the left brain and the right brain
+Maximus Memento — 7/26/25, 00:42
+Remember how you were sharing with me the insight you had about the Earth being the Garden of Eden? How Paradise means walled garden? You shared the insight using physics analogies and something which was updated for modern science, but it fit for something like Genesis. Symbolism is about getting to the original meaning of things, so the meaning of Genesis, which is symbolic, was able to be made sense of using your scientific analogy.
+Maximus Memento — 7/26/25, 14:42
+Oh yes, and remember when you shared with me that you did not mind if our consciousness was able to be uploaded into a digital space due to the necessary metaphysical constraints for goodness and life?
+
+Though I believe what you’re getting at has much truth to it, that position leans towards transhumanism which is a flavor of Gnosticism. It’s truth understood as disembodied, not being the union of heaven and earth (or yin and yang if prefer). It presupposes that the intelligibility of the world is reducible to the discursive intellect. I am trying to preserve the importance of embodiment, particularly the Nous as the eye of the heart. Another property of the Nous is it is intellectual intuitive faculty of perception where the mind and the body become one, hence why it is also referred to as “the eye of the heart” in Eastern Orthodoxy, where the heart is typically understood to be where the mind and body become one. 
